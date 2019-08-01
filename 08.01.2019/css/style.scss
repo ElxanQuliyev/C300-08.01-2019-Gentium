@@ -1,0 +1,29 @@
+.dragArea{
+   border:1px solid #ddd;
+   height: 500px;
+   padding: 10px;
+   .dragitem{
+      background: #ccc;
+      height: 200px;
+      text-align: center;
+      line-height: 200px;
+      margin-bottom: 15px;
+   }
+
+  
+}
+.dropArea{
+    padding: 10px;
+    border:1px solid red;
+    .dropFiel{
+        height: 200px;
+        border:1px dashed brown;
+        margin-bottom: 15px;
+        .dragitem{
+            background: aqua;
+            height: 198px;
+            line-height: 199px;
+            text-align: center;
+        }
+    }
+}
