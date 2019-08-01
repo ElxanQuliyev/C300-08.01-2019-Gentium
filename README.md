@@ -26,5 +26,5 @@ template-ni bootstrap vasitəsilə maksimum səliqə ilə yığmaq.. Yadınızda
 </ul>
 </li>
 </ul>
-<p><em>Xoş istirahətlər.İstirahət günlərində keçdiklərimizi başdan təkrar edin.Uğurlar hər birinizə </em></p>
+<p><em>Uğurlar hər birinizə </em></p>
 </article>
